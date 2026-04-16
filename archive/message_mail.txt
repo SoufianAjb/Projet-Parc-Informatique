@@ -1,0 +1,5 @@
+ALERTE !!!
+
+Une valeure anormale a été détecté!
+Veuillez vous informez de la situation au plus vite!
+

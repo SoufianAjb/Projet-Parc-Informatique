@@ -1,0 +1,5625 @@
+mar. 10 mars 2026 11:24:01 UTC
+Pourcentage de la mémoire utilisé :  10.8
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 11:25:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 11:26:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 11:27:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 11:28:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  3.1
+mar. 10 mars 2026 11:29:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  1.1
+mar. 10 mars 2026 11:30:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 11:31:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.4
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 11:32:01 UTC
+Pourcentage de la mémoire utilisé :  10.4
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  2.2
+mar. 10 mars 2026 11:33:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.6
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 11:34:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.6
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 11:35:01 UTC
+Pourcentage de la mémoire utilisé :  9.6
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 11:36:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.6
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 11:37:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.6
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 11:38:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.6
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 11:39:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  3.0
+mar. 10 mars 2026 11:40:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  4.3
+mar. 10 mars 2026 11:41:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  2.2
+mar. 10 mars 2026 11:42:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  4.2
+mar. 10 mars 2026 11:43:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  8.8
+mar. 10 mars 2026 11:44:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  2.1
+mar. 10 mars 2026 11:45:01 UTC
+Pourcentage de la mémoire utilisé :  9.8
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  2.1
+mar. 10 mars 2026 11:46:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  5.1
+mar. 10 mars 2026 11:47:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  12.1
+Pourcentage du CPU :  8.3
+mar. 10 mars 2026 11:48:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.6
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 11:49:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 11:50:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 11:51:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 11:52:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 11:53:01 UTC
+Pourcentage de la mémoire utilisé :  11.2
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 11:54:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 11:55:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  91.7
+mar. 10 mars 2026 11:56:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 11:57:01 UTC
+Pourcentage de la mémoire utilisé :  10.0
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 11:58:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 11:59:01 UTC
+Pourcentage de la mémoire utilisé :  10.0
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:00:01 UTC
+Pourcentage de la mémoire utilisé :  10.0
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:01:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:02:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:03:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:04:01 UTC
+Pourcentage de la mémoire utilisé :  9.8
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:05:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:06:02 UTC
+Pourcentage de la mémoire utilisé :  9.9
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:07:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:08:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:09:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:10:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:11:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:12:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:13:01 UTC
+Pourcentage de la mémoire utilisé :  10.1
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:14:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:15:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  4.4
+mar. 10 mars 2026 12:16:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:17:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:18:01 UTC
+Pourcentage de la mémoire utilisé :  10.0
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:19:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  3.2
+mar. 10 mars 2026 12:20:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  1.1
+mar. 10 mars 2026 12:21:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  1.1
+mar. 10 mars 2026 12:22:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  1.1
+mar. 10 mars 2026 12:23:01 UTC
+Pourcentage de la mémoire utilisé :  10.1
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  1.0
+mar. 10 mars 2026 12:24:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  1.1
+mar. 10 mars 2026 12:25:02 UTC
+Pourcentage de la mémoire utilisé :  10.1
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:26:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:27:01 UTC
+Pourcentage de la mémoire utilisé :  10.0
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:28:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  1.1
+mar. 10 mars 2026 12:29:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  3.2
+mar. 10 mars 2026 12:30:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  4.3
+mar. 10 mars 2026 12:31:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:32:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  2.2
+mar. 10 mars 2026 12:33:01 UTC
+Pourcentage de la mémoire utilisé :  10.1
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  4.3
+mar. 10 mars 2026 12:34:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:35:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  6.7
+mar. 10 mars 2026 12:36:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:37:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  4.3
+mar. 10 mars 2026 12:38:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  5.7
+mar. 10 mars 2026 12:39:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:40:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:41:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  1.1
+mar. 10 mars 2026 12:42:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  1.1
+mar. 10 mars 2026 12:43:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:44:01 UTC
+Pourcentage de la mémoire utilisé :  10.1
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:45:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  1.1
+mar. 10 mars 2026 12:46:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:47:01 UTC
+Pourcentage de la mémoire utilisé :  10.1
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:48:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:49:01 UTC
+Pourcentage de la mémoire utilisé :  10.1
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:50:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:51:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  2.2
+mar. 10 mars 2026 12:52:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  1.1
+mar. 10 mars 2026 12:53:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  3.3
+mar. 10 mars 2026 12:54:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  2.2
+mar. 10 mars 2026 12:55:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:56:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  5.4
+mar. 10 mars 2026 12:57:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  3.2
+mar. 10 mars 2026 12:58:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 12:59:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  2.0
+mar. 10 mars 2026 13:00:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  2.1
+mar. 10 mars 2026 13:01:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 13:02:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 13:03:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 13:04:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  2.0
+mar. 10 mars 2026 13:05:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 13:06:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 13:07:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 13:08:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 13:09:01 UTC
+Pourcentage de la mémoire utilisé :  10.0
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 13:10:01 UTC
+Pourcentage de la mémoire utilisé :  10.0
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 13:11:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  5.5
+mar. 10 mars 2026 13:12:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 13:13:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  1.1
+mar. 10 mars 2026 13:14:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  3.3
+mar. 10 mars 2026 13:15:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  2.2
+mar. 10 mars 2026 13:16:01 UTC
+Pourcentage de la mémoire utilisé :  10.1
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 13:17:01 UTC
+Pourcentage de la mémoire utilisé :  10.1
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 13:18:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  1.0
+mar. 10 mars 2026 13:19:01 UTC
+Pourcentage de la mémoire utilisé :  10.1
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 13:20:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 13:21:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 13:22:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  1.0
+mar. 10 mars 2026 13:23:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 13:24:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  1.1
+mar. 10 mars 2026 13:25:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  2.2
+mar. 10 mars 2026 13:26:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 13:27:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 13:28:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 13:29:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  1.0
+mar. 10 mars 2026 13:30:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 13:31:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 13:32:01 UTC
+Pourcentage de la mémoire utilisé :  10.0
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 13:33:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 13:34:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+mar. 10 mars 2026 13:35:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  2.1
+mar. 10 mars 2026 13:36:01 UTC
+Pourcentage de la mémoire utilisé :  10.0
+Nombre d'utilisateurs connectés : 1 
+mar. 10 mars 2026 13:37:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+mar. 10 mars 2026 13:38:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  1.1
+mar. 10 mars 2026 13:39:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  3.2
+mar. 10 mars 2026 13:40:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 13:41:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 13:42:02 UTC
+Pourcentage de la mémoire utilisé :  10.1
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  1.1
+mar. 10 mars 2026 13:43:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mar. 10 mars 2026 13:44:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  6.7
+mar. 10 mars 2026 13:45:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  4.3
+mar. 10 mars 2026 13:46:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  7.6
+mar. 10 mars 2026 13:47:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  3.3
+mar. 10 mars 2026 13:48:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  10.5
+mar. 10 mars 2026 13:49:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.4
+Pourcentage du CPU :  5.8
+mar. 10 mars 2026 13:50:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  13.2
+mar. 10 mars 2026 13:51:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.4
+Pourcentage du CPU :  12.7
+mar. 10 mars 2026 13:52:01 UTC
+Pourcentage de la mémoire utilisé :  10.8
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  7.5
+mar. 10 mars 2026 13:53:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  13.2
+mar. 10 mars 2026 13:54:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  6.9
+mar. 10 mars 2026 13:55:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  10.0
+mar. 10 mars 2026 13:56:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  11.8
+mar. 10 mars 2026 13:57:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  9.1
+mar. 10 mars 2026 13:58:01 UTC
+Pourcentage de la mémoire utilisé :  11.0
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  16.7
+mar. 10 mars 2026 13:59:01 UTC
+Pourcentage de la mémoire utilisé :  11.0
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  6.9
+mar. 10 mars 2026 14:00:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  9.6
+mar. 10 mars 2026 14:01:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  3.8
+mar. 10 mars 2026 14:02:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  1.4
+mar. 10 mars 2026 14:03:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.7
+Pourcentage du CPU :  3.9
+mar. 10 mars 2026 14:04:01 UTC
+Pourcentage de la mémoire utilisé :  11.3
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  4.0
+mar. 10 mars 2026 14:05:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  7.6
+mar. 10 mars 2026 14:06:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  6.3
+mar. 10 mars 2026 14:07:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  2.6
+mar. 10 mars 2026 14:08:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  6.8
+mar. 10 mars 2026 14:09:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  10.7
+mar. 10 mars 2026 14:10:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  9.3
+mar. 10 mars 2026 14:11:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  15.0
+mar. 10 mars 2026 14:12:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  6.6
+mar. 10 mars 2026 14:13:01 UTC
+Pourcentage de la mémoire utilisé :  11.2
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  7.6
+mar. 10 mars 2026 14:14:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  9.8
+mar. 10 mars 2026 14:15:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  8.6
+mar. 10 mars 2026 14:16:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  4.0
+mar. 10 mars 2026 14:17:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  11.1
+mar. 10 mars 2026 14:18:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  8.5
+mar. 10 mars 2026 14:19:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  8.9
+mar. 10 mars 2026 14:20:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  9.0
+mar. 10 mars 2026 14:21:01 UTC
+Pourcentage de la mémoire utilisé :  11.2
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  5.3
+mar. 10 mars 2026 14:22:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  4.1
+mar. 10 mars 2026 14:23:01 UTC
+Pourcentage de la mémoire utilisé :  11.2
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  7.8
+mar. 10 mars 2026 14:24:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  2.7
+mar. 10 mars 2026 14:25:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  9.1
+mar. 10 mars 2026 14:26:18 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  6.8
+mar. 10 mars 2026 14:27:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  6.7
+mar. 10 mars 2026 14:28:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  4.2
+mar. 10 mars 2026 14:29:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  1.4
+mar. 10 mars 2026 14:30:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  4.1
+mar. 10 mars 2026 14:31:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  5.2
+mar. 10 mars 2026 14:32:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  13.3
+mar. 10 mars 2026 14:33:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  8.6
+mar. 10 mars 2026 14:34:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  14.1
+mar. 10 mars 2026 14:35:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  11.7
+mar. 10 mars 2026 14:36:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  12.0
+mar. 10 mars 2026 14:37:01 UTC
+Pourcentage de la mémoire utilisé :  11.4
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  14.0
+mar. 10 mars 2026 14:38:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  6.7
+mar. 10 mars 2026 14:39:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  4.2
+mar. 10 mars 2026 14:40:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  18.1
+mar. 10 mars 2026 14:41:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  18.4
+mar. 10 mars 2026 14:42:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  7.9
+mar. 10 mars 2026 14:43:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  15.3
+mar. 10 mars 2026 14:44:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  5.1
+mar. 10 mars 2026 14:45:01 UTC
+Pourcentage de la mémoire utilisé :  11.4
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  12.7
+mar. 10 mars 2026 14:46:01 UTC
+Pourcentage de la mémoire utilisé :  11.4
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  10.0
+mar. 10 mars 2026 14:47:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  10.5
+mar. 10 mars 2026 14:48:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  8.0
+mar. 10 mars 2026 14:49:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  8.2
+mar. 10 mars 2026 14:50:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  2.8
+mar. 10 mars 2026 14:51:01 UTC
+Pourcentage de la mémoire utilisé :  11.4
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  7.9
+mar. 10 mars 2026 14:52:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  14.7
+mar. 10 mars 2026 14:53:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  11.7
+mar. 10 mars 2026 14:54:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  8.2
+mar. 10 mars 2026 14:55:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  7.5
+lun. 16 mars 2026 12:50:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  21.6
+lun. 16 mars 2026 12:51:02 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  9.3
+lun. 16 mars 2026 12:52:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  9.6
+lun. 16 mars 2026 12:53:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  9.3
+lun. 16 mars 2026 12:54:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  14.5
+lun. 16 mars 2026 12:55:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  10.8
+lun. 16 mars 2026 12:56:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  11.2
+lun. 16 mars 2026 12:57:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  15.2
+lun. 16 mars 2026 12:58:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  15.5
+lun. 16 mars 2026 12:59:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  11.5
+lun. 16 mars 2026 13:00:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  74.2
+lun. 16 mars 2026 13:01:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  4.1
+lun. 16 mars 2026 13:02:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  18.3
+lun. 16 mars 2026 13:03:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  6.1
+lun. 16 mars 2026 13:04:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  2.5
+lun. 16 mars 2026 13:05:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  6.2
+lun. 16 mars 2026 13:06:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  6.4
+lun. 16 mars 2026 13:07:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  5.1
+lun. 16 mars 2026 13:08:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  8.2
+lun. 16 mars 2026 13:09:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  17.5
+lun. 16 mars 2026 13:10:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  3.7
+lun. 16 mars 2026 13:11:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  2.5
+lun. 16 mars 2026 13:12:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  4.8
+lun. 16 mars 2026 13:13:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  6.2
+lun. 16 mars 2026 13:14:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  5.0
+lun. 16 mars 2026 13:15:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  3.8
+lun. 16 mars 2026 13:16:02 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  3.7
+lun. 16 mars 2026 13:17:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  2.5
+lun. 16 mars 2026 13:18:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  4.8
+lun. 16 mars 2026 13:19:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  5.0
+lun. 16 mars 2026 13:20:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  5.9
+lun. 16 mars 2026 13:21:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  18.2
+lun. 16 mars 2026 13:22:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  4.8
+lun. 16 mars 2026 13:23:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  7.2
+lun. 16 mars 2026 13:24:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  3.7
+lun. 16 mars 2026 13:25:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  4.8
+lun. 16 mars 2026 13:26:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  3.7
+lun. 16 mars 2026 13:27:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  3.7
+lun. 16 mars 2026 13:28:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  5.1
+lun. 16 mars 2026 13:29:02 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  4.9
+mar. 17 mars 2026 09:17:03 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.6
+Pourcentage du CPU :  17.2
+mar. 17 mars 2026 09:18:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  2.5
+mar. 17 mars 2026 09:19:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.6
+Pourcentage du CPU :  3.7
+mar. 17 mars 2026 09:20:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  2.4
+mar. 17 mars 2026 09:21:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  3.7
+mar. 17 mars 2026 09:22:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.6
+Pourcentage du CPU :  11.0
+mar. 17 mars 2026 09:23:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.6
+Pourcentage du CPU :  2.5
+mar. 17 mars 2026 09:24:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  6.0
+mar. 17 mars 2026 09:25:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.6
+Pourcentage du CPU :  3.8
+mar. 17 mars 2026 09:26:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.6
+Pourcentage du CPU :  3.7
+mar. 17 mars 2026 09:27:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.7
+Pourcentage du CPU :  7.1
+mar. 17 mars 2026 09:28:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.9
+Pourcentage du CPU :  4.9
+mar. 17 mars 2026 09:29:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.6
+Pourcentage du CPU :  3.8
+mar. 17 mars 2026 09:30:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.7
+Pourcentage du CPU :  3.7
+mar. 17 mars 2026 09:31:01 UTC
+Pourcentage de la mémoire utilisé :  11.7
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  2.6
+mar. 17 mars 2026 09:32:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.7
+Pourcentage du CPU :  5.0
+mar. 17 mars 2026 09:33:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.6
+Pourcentage du CPU :  3.7
+mar. 17 mars 2026 09:34:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.8
+Pourcentage du CPU :  3.8
+mar. 17 mars 2026 09:35:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.7
+Pourcentage du CPU :  3.8
+mar. 17 mars 2026 09:36:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.7
+Pourcentage du CPU :  6.0
+mar. 17 mars 2026 09:37:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.7
+Pourcentage du CPU :  4.9
+mar. 17 mars 2026 09:38:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.6
+Pourcentage du CPU :  3.8
+mar. 17 mars 2026 09:39:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.8
+Pourcentage du CPU :  4.9
+mar. 17 mars 2026 09:40:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.7
+Pourcentage du CPU :  3.6
+mar. 17 mars 2026 09:41:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.8
+Pourcentage du CPU :  6.1
+mar. 17 mars 2026 09:42:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.7
+Pourcentage du CPU :  1.3
+mar. 17 mars 2026 09:43:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.8
+Pourcentage du CPU :  3.8
+mar. 17 mars 2026 09:44:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.9
+Pourcentage du CPU :  9.5
+mar. 17 mars 2026 09:45:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.7
+Pourcentage du CPU :  3.8
+mar. 17 mars 2026 09:46:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.7
+Pourcentage du CPU :  3.7
+mar. 17 mars 2026 09:47:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.8
+Pourcentage du CPU :  2.4
+mar. 17 mars 2026 09:48:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.8
+Pourcentage du CPU :  8.3
+mar. 17 mars 2026 09:49:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.9
+Pourcentage du CPU :  4.8
+mar. 17 mars 2026 09:50:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.6
+Pourcentage du CPU :  2.5
+mar. 17 mars 2026 09:51:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.7
+Pourcentage du CPU :  7.1
+mar. 17 mars 2026 09:52:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.8
+Pourcentage du CPU :  4.8
+mar. 17 mars 2026 09:53:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.9
+Pourcentage du CPU :  17.0
+mar. 17 mars 2026 09:54:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.8
+Pourcentage du CPU :  6.0
+mar. 17 mars 2026 09:55:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.8
+Pourcentage du CPU :  4.9
+mar. 17 mars 2026 09:56:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.7
+Pourcentage du CPU :  1.2
+mar. 17 mars 2026 09:57:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.7
+Pourcentage du CPU :  4.8
+mar. 17 mars 2026 09:58:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.9
+Pourcentage du CPU :  3.8
+mar. 17 mars 2026 09:59:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.8
+Pourcentage du CPU :  3.7
+mar. 17 mars 2026 10:00:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.9
+Pourcentage du CPU :  4.8
+mar. 17 mars 2026 10:01:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.7
+Pourcentage du CPU :  6.0
+mar. 17 mars 2026 10:02:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.8
+Pourcentage du CPU :  4.8
+mar. 17 mars 2026 10:03:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.6
+Pourcentage du CPU :  2.5
+mar. 17 mars 2026 10:04:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  7.4
+mar. 17 mars 2026 10:05:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.4
+Pourcentage du CPU :  2.6
+mar. 17 mars 2026 10:06:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  4.8
+mar. 17 mars 2026 10:07:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  5.9
+mar. 17 mars 2026 10:08:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  2.5
+mar. 17 mars 2026 10:09:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  4.9
+mar. 17 mars 2026 10:10:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  4.9
+mar. 17 mars 2026 10:11:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  4.8
+mar. 17 mars 2026 10:12:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.4
+Pourcentage du CPU :  3.6
+mar. 17 mars 2026 10:13:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  4.9
+mar. 17 mars 2026 10:14:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  13.6
+mar. 17 mars 2026 10:15:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.4
+Pourcentage du CPU :  2.4
+mar. 17 mars 2026 10:16:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  3.7
+mar. 17 mars 2026 10:17:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  4.9
+mar. 17 mars 2026 10:18:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  7.2
+mar. 17 mars 2026 10:19:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  7.2
+mar. 17 mars 2026 10:20:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  6.0
+mar. 17 mars 2026 10:21:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  0.0
+mar. 17 mars 2026 10:22:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  0.0
+mar. 17 mars 2026 10:23:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  0.0
+mar. 17 mars 2026 10:24:01 UTC
+Pourcentage de la mémoire utilisé :  10.6
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  1.0
+mar. 17 mars 2026 10:25:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  0.0
+mar. 17 mars 2026 10:26:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  1.0
+                                      mar. 17 mars 2026 12:40:02 UTC
+Nombre d'utilisateurs connectés : 0 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  0.0
+mar. 17 mars 2026 12:41:03 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  0.0
+mar. 17 mars 2026 12:42:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  0.0
+mar. 17 mars 2026 12:43:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  0.0
+mar. 17 mars 2026 12:44:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  0.0
+mar. 17 mars 2026 12:45:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  5.1
+mar. 17 mars 2026 12:46:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  0.0
+mar. 17 mars 2026 12:47:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  1.0
+mar. 17 mars 2026 12:48:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mar. 17 mars 2026 12:49:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  1.0
+mar. 17 mars 2026 12:50:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  12.6
+mar. 17 mars 2026 12:51:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  0.0
+mar. 17 mars 2026 12:52:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  0.0
+mar. 17 mars 2026 12:53:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  1.1
+mar. 17 mars 2026 12:54:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.6
+Pourcentage du CPU :  1.1
+mar. 17 mars 2026 12:55:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  1.1
+mar. 17 mars 2026 12:56:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.6
+Pourcentage du CPU :  0.0
+mar. 17 mars 2026 12:57:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.6
+Pourcentage du CPU :  3.1
+mar. 17 mars 2026 12:58:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  1.0
+mar. 17 mars 2026 12:59:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  0.0
+mar. 17 mars 2026 13:00:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  0.0
+mar. 17 mars 2026 13:01:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  2.1
+mar. 17 mars 2026 13:17:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  30.5
+mar. 17 mars 2026 13:18:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  22.9
+mar. 17 mars 2026 13:19:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  0.0
+mar. 17 mars 2026 13:20:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  1.1
+mar. 17 mars 2026 13:21:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  0.0
+mar. 17 mars 2026 13:22:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  0.0
+mar. 17 mars 2026 13:23:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  2.0
+mar. 17 mars 2026 13:24:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  0.0
+mar. 17 mars 2026 13:25:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  0.0
+mar. 17 mars 2026 13:26:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  0.0
+mar. 17 mars 2026 13:27:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  1.0
+mer. 18 mars 2026 09:11:01 UTC
+Nombre d'utilisateurs connectés : 0 
+Pourcentage de la mémoire utilisé :  11.9
+Pourcentage du CPU :  1.0
+mer. 18 mars 2026 09:12:03 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  89.6
+mer. 18 mars 2026 09:13:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  4.2
+mer. 18 mars 2026 09:14:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  1.1
+mer. 18 mars 2026 09:15:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  1.1
+mer. 18 mars 2026 09:16:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  3.3
+mer. 18 mars 2026 09:17:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 09:18:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 09:19:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  1.1
+mer. 18 mars 2026 09:20:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  3.2
+mer. 18 mars 2026 09:21:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  1.0
+Pourcentage de la mémoire utilisé :  10.9
+mer. 18 mars 2026 09:22:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 09:23:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  7.7
+mer. 18 mars 2026 09:24:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  1.0
+mer. 18 mars 2026 09:25:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  1.1
+mer. 18 mars 2026 09:26:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  3.2
+mer. 18 mars 2026 09:27:01 UTC
+Pourcentage de la mémoire utilisé :  10.8
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  1.1
+Pourcentage de la mémoire utilisé :  10.8
+mer. 18 mars 2026 09:28:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 09:29:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  5.3
+mer. 18 mars 2026 09:30:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 09:31:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 09:32:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  2.2
+mer. 18 mars 2026 09:33:01 UTC
+Pourcentage de la mémoire utilisé :  11.2
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  1.0
+mer. 18 mars 2026 09:34:01 UTC
+Pourcentage de la mémoire utilisé :  11.2
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 09:35:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  5.2
+mer. 18 mars 2026 09:36:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  4.2
+mer. 18 mars 2026 09:37:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  1.1
+mer. 18 mars 2026 09:38:01 UTC
+Pourcentage de la mémoire utilisé :  11.2
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  1.1
+mer. 18 mars 2026 09:39:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  17.0
+mer. 18 mars 2026 09:40:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  14.9
+mer. 18 mars 2026 09:41:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  4.4
+mer. 18 mars 2026 09:42:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  4.3
+mer. 18 mars 2026 09:43:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  1.0
+mer. 18 mars 2026 09:44:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  1.1
+mer. 18 mars 2026 09:45:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 09:46:01 UTC
+Pourcentage de la mémoire utilisé :  11.2
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 09:47:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  2.1
+mer. 18 mars 2026 09:48:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  3.2
+mer. 18 mars 2026 09:49:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  2.2
+mer. 18 mars 2026 09:50:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 09:51:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  1.0
+mer. 18 mars 2026 09:52:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 09:53:01 UTC
+Pourcentage de la mémoire utilisé :  11.2
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  1.1
+mer. 18 mars 2026 09:54:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 09:55:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 09:56:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 09:57:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 09:58:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 09:59:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 10:00:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  1.0
+mer. 18 mars 2026 10:01:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 10:02:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  2.1
+mer. 18 mars 2026 10:03:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  2.1
+mer. 18 mars 2026 10:04:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  20.4
+mer. 18 mars 2026 10:05:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.7
+Pourcentage du CPU :  2.1
+mer. 18 mars 2026 10:06:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.6
+Pourcentage du CPU :  2.1
+mer. 18 mars 2026 10:07:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 10:08:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 10:09:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 10:10:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 10:11:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 10:12:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 10:13:01 UTC
+Pourcentage de la mémoire utilisé :  9.7
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  1.0
+mer. 18 mars 2026 10:14:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 10:15:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  1.1
+mer. 18 mars 2026 10:16:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.6
+Pourcentage du CPU :  0.0
+Pourcentage de la mémoire utilisé :  9.7
+mer. 18 mars 2026 10:17:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 10:18:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 10:19:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 10:20:01 UTC
+Pourcentage de la mémoire utilisé :  9.8
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  1.1
+mer. 18 mars 2026 10:21:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  3.2
+mer. 18 mars 2026 10:22:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  3.2
+mer. 18 mars 2026 10:23:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 10:24:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 10:25:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 10:26:01 UTC
+Pourcentage de la mémoire utilisé :  9.7
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 10:27:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 10:28:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  4.2
+mer. 18 mars 2026 10:29:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  2.1
+mer. 18 mars 2026 10:30:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 10:31:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 10:32:01 UTC
+Pourcentage de la mémoire utilisé :  9.7
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 10:33:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  1.1
+mer. 18 mars 2026 10:34:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 10:35:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  1.1
+mer. 18 mars 2026 10:36:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 10:37:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 10:38:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 10:39:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 10:40:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  3.2
+mer. 18 mars 2026 10:41:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  2.1
+mer. 18 mars 2026 10:42:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 10:43:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  2.1
+mer. 18 mars 2026 10:44:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  2.1
+mer. 18 mars 2026 10:45:01 UTC
+Pourcentage de la mémoire utilisé :  9.9
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 10:46:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  4.1
+mer. 18 mars 2026 10:47:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  0.0
+mer. 18 mars 2026 10:48:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  2.1
+mer. 18 mars 2026 10:49:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  0.0
+jeu. 19 mars 2026 08:22:01 UTC
+Nombre d'utilisateurs connectés : 0 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  1.0
+jeu. 19 mars 2026 08:23:03 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+jeu. 19 mars 2026 08:24:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+jeu. 19 mars 2026 08:25:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+jeu. 19 mars 2026 08:26:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  1.0
+jeu. 19 mars 2026 08:27:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  5.2
+jeu. 19 mars 2026 08:28:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  1.0
+jeu. 19 mars 2026 08:29:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+jeu. 19 mars 2026 08:30:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  0.0
+jeu. 19 mars 2026 08:31:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+jeu. 19 mars 2026 08:32:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+jeu. 19 mars 2026 08:33:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+jeu. 19 mars 2026 08:34:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  1.0
+jeu. 19 mars 2026 08:35:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+jeu. 19 mars 2026 08:36:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+jeu. 19 mars 2026 08:37:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+jeu. 19 mars 2026 08:38:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+jeu. 19 mars 2026 08:39:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  1.0
+jeu. 19 mars 2026 08:40:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  1.1
+jeu. 19 mars 2026 08:41:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+jeu. 19 mars 2026 08:42:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  0.0
+jeu. 19 mars 2026 08:43:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+jeu. 19 mars 2026 08:44:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  1.0
+jeu. 19 mars 2026 08:45:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  1.1
+jeu. 19 mars 2026 08:46:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  0.0
+jeu. 19 mars 2026 08:47:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+jeu. 19 mars 2026 08:48:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+jeu. 19 mars 2026 08:49:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+jeu. 19 mars 2026 08:50:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  0.0
+jeu. 19 mars 2026 08:51:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+jeu. 19 mars 2026 08:52:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+jeu. 19 mars 2026 08:53:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+jeu. 19 mars 2026 08:54:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+jeu. 19 mars 2026 08:55:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+jeu. 19 mars 2026 08:56:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+jeu. 19 mars 2026 08:57:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  0.0
+jeu. 19 mars 2026 08:58:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  1.0
+jeu. 19 mars 2026 08:59:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  2.0
+jeu. 19 mars 2026 09:00:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+jeu. 19 mars 2026 09:01:01 UTC
+Pourcentage de la mémoire utilisé :  10.9
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:04:03 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:05:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  2.1
+mar. 24 mars 2026 11:06:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  1.0
+mar. 24 mars 2026 11:07:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:08:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  5.3
+mar. 24 mars 2026 11:09:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:10:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:11:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:12:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:13:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:14:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  1.0
+mar. 24 mars 2026 11:15:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  1.1
+mar. 24 mars 2026 11:16:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:17:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:18:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  2.1
+mar. 24 mars 2026 11:19:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:20:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:21:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:22:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:23:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:24:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:25:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  1.1
+mar. 24 mars 2026 11:26:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:27:01 UTC
+Pourcentage de la mémoire utilisé :  9.8
+Nombre d'utilisateurs connectés : 2 
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:28:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  84.0
+mar. 24 mars 2026 11:29:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:30:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  1.0
+mar. 24 mars 2026 11:31:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:32:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  2.0
+mar. 24 mars 2026 11:33:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:34:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:35:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:36:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:37:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:38:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:39:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:40:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  2.0
+mar. 24 mars 2026 11:41:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:42:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:43:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:44:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:45:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:46:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  1.0
+mar. 24 mars 2026 11:47:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+mar. 24 mars 2026 11:48:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+                                                                                                                                            mer. 25 mars 2026 10:54:03 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  1.0
+mer. 25 mars 2026 10:55:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  2.2
+mer. 25 mars 2026 10:56:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 10:57:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  2.2
+mer. 25 mars 2026 10:58:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  1.1
+mer. 25 mars 2026 10:59:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:00:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  1.1
+mer. 25 mars 2026 11:01:01 UTC
+Pourcentage de la mémoire utilisé :  11.0
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:02:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  5.4
+mer. 25 mars 2026 11:03:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:04:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:05:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:06:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  4.3
+mer. 25 mars 2026 11:07:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  3.3
+mer. 25 mars 2026 11:08:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  1.1
+mer. 25 mars 2026 11:09:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:10:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  2.2
+mer. 25 mars 2026 11:11:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  1.1
+mer. 25 mars 2026 11:12:01 UTC
+Pourcentage de la mémoire utilisé :  11.1
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:13:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:14:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:15:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  2.2
+mer. 25 mars 2026 11:16:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:17:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:18:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:19:01 UTC
+Pourcentage de la mémoire utilisé :  11.3
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:20:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:21:01 UTC
+Pourcentage de la mémoire utilisé :  11.3
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:22:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:23:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:24:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:25:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:26:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  2.1
+mer. 25 mars 2026 11:27:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  1.1
+mer. 25 mars 2026 11:28:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:29:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:30:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.6
+Pourcentage du CPU :  3.1
+mer. 25 mars 2026 11:31:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  2.2
+mer. 25 mars 2026 11:32:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:33:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:34:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:35:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:36:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:37:01 UTC
+Pourcentage de la mémoire utilisé :  10.5
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  1.0
+mer. 25 mars 2026 11:38:01 UTC
+Pourcentage de la mémoire utilisé :  10.5
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:39:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:40:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:41:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:42:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:43:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:44:01 UTC
+Pourcentage de la mémoire utilisé :  10.5
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:45:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:46:01 UTC
+Pourcentage de la mémoire utilisé :  10.5
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:47:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:48:01 UTC
+Pourcentage de la mémoire utilisé :  10.5
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:49:01 UTC
+Pourcentage de la mémoire utilisé :  10.5
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:50:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:51:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  1.1
+mer. 25 mars 2026 11:52:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.4
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:53:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:54:01 UTC
+Pourcentage de la mémoire utilisé :  10.5
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:55:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:56:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  1.1
+mer. 25 mars 2026 11:57:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:58:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 11:59:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:00:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:01:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:02:01 UTC
+Pourcentage de la mémoire utilisé :  10.5
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:03:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  13.7
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:04:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:05:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:06:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:07:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:08:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:09:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:10:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:11:01 UTC
+Pourcentage de la mémoire utilisé :  11.3
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:12:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:13:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:14:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:15:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:16:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  1.1
+mer. 25 mars 2026 12:17:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:18:01 UTC
+Pourcentage de la mémoire utilisé :  11.4
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:19:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  1.1
+mer. 25 mars 2026 12:20:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  10.6
+mer. 25 mars 2026 12:21:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:22:01 UTC
+Pourcentage de la mémoire utilisé :  11.3
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:23:01 UTC
+Pourcentage de la mémoire utilisé :  11.3
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:24:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:25:01 UTC
+Pourcentage de la mémoire utilisé :  11.4
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  3.5
+mer. 25 mars 2026 12:26:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:27:01 UTC
+Pourcentage de la mémoire utilisé :  11.3
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:28:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:29:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:30:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  2.5
+mer. 25 mars 2026 12:31:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  4.3
+mer. 25 mars 2026 12:32:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:33:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  2.2
+mer. 25 mars 2026 12:34:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:35:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  4.7
+mer. 25 mars 2026 12:36:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:37:01 UTC
+Pourcentage de la mémoire utilisé :  11.2
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:38:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:39:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  2.1
+mer. 25 mars 2026 12:40:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  10.1
+mer. 25 mars 2026 12:41:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:42:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  3.2
+mer. 25 mars 2026 12:43:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  1.1
+mer. 25 mars 2026 12:44:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:45:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  4.5
+mer. 25 mars 2026 12:46:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:47:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  2.2
+mer. 25 mars 2026 12:48:01 UTC
+Pourcentage de la mémoire utilisé :  11.3
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:49:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  4.3
+mer. 25 mars 2026 12:50:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  8.1
+mer. 25 mars 2026 12:51:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:52:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  1.0
+mer. 25 mars 2026 12:53:01 UTC
+Pourcentage de la mémoire utilisé :  11.2
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:54:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  1.1
+mer. 25 mars 2026 12:55:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  2.4
+mer. 25 mars 2026 12:56:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:57:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:58:01 UTC
+Pourcentage de la mémoire utilisé :  11.2
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 12:59:01 UTC
+Pourcentage de la mémoire utilisé :  11.3
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:00:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  10.2
+mer. 25 mars 2026 13:01:01 UTC
+Pourcentage de la mémoire utilisé :  11.3
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:02:01 UTC
+Pourcentage de la mémoire utilisé :  11.3
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:03:01 UTC
+Pourcentage de la mémoire utilisé :  11.3
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:04:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:05:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  8.0
+mer. 25 mars 2026 13:06:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:07:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:08:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:09:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:10:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  3.4
+mer. 25 mars 2026 13:11:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:12:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:13:01 UTC
+Pourcentage de la mémoire utilisé :  11.3
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:14:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:15:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  10.2
+mer. 25 mars 2026 13:16:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:17:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:18:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  2.1
+mer. 25 mars 2026 13:19:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:20:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  8.5
+mer. 25 mars 2026 13:21:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  3.2
+mer. 25 mars 2026 13:22:01 UTC
+Pourcentage de la mémoire utilisé :  11.3
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:23:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:24:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:25:01 UTC
+Pourcentage de la mémoire utilisé :  11.1
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  8.0
+mer. 25 mars 2026 13:26:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  2.1
+mer. 25 mars 2026 13:27:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:28:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:29:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  1.1
+mer. 25 mars 2026 13:30:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  8.8
+mer. 25 mars 2026 13:31:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:32:01 UTC
+Pourcentage de la mémoire utilisé :  10.8
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:33:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:34:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:35:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  3.6
+mer. 25 mars 2026 13:36:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:37:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  2.2
+mer. 25 mars 2026 13:38:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  3.3
+mer. 25 mars 2026 13:39:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  3.3
+mer. 25 mars 2026 13:40:02 UTC
+Pourcentage de la mémoire utilisé :  10.2
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  7.6
+mer. 25 mars 2026 13:41:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:42:01 UTC
+Pourcentage de la mémoire utilisé :  9.7
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  3.3
+mer. 25 mars 2026 13:43:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:44:01 UTC
+Pourcentage de la mémoire utilisé :  9.7
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:45:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  3.3
+mer. 25 mars 2026 13:46:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:47:01 UTC
+Pourcentage de la mémoire utilisé :  10.0
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:48:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  1.0
+mer. 25 mars 2026 13:49:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:50:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  4.7
+mer. 25 mars 2026 13:51:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:52:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  1.0
+mer. 25 mars 2026 13:53:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:54:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  2.1
+mer. 25 mars 2026 13:55:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  6.8
+mer. 25 mars 2026 13:56:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  1.0
+mer. 25 mars 2026 13:57:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  1.1
+mer. 25 mars 2026 13:58:01 UTC
+Pourcentage de la mémoire utilisé :  9.8
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 13:59:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 14:00:02 UTC
+Pourcentage de la mémoire utilisé :  10.0
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  2.4
+mer. 25 mars 2026 14:01:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  1.1
+mer. 25 mars 2026 14:02:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  1.1
+mer. 25 mars 2026 14:03:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 14:04:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 14:05:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  10.2
+mer. 25 mars 2026 14:06:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.6
+Pourcentage du CPU :  3.3
+mer. 25 mars 2026 14:07:01 UTC
+Pourcentage de la mémoire utilisé :  9.6
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 14:08:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  1.1
+mer. 25 mars 2026 14:09:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  3.2
+mer. 25 mars 2026 14:10:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  4.8
+mer. 25 mars 2026 14:11:01 UTC
+Pourcentage de la mémoire utilisé :  10.1
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 14:12:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 14:13:01 UTC
+Pourcentage de la mémoire utilisé :  10.1
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 14:14:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  1.1
+mer. 25 mars 2026 14:15:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  8.3
+mer. 25 mars 2026 14:16:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 14:17:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 14:18:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 14:19:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 14:20:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  8.0
+mer. 25 mars 2026 14:21:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 14:22:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 14:23:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  3.3
+mer. 25 mars 2026 14:24:01 UTC
+Pourcentage de la mémoire utilisé :  10.1
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  1.1
+mer. 25 mars 2026 14:25:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  3.6
+mer. 25 mars 2026 14:26:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  2.2
+mer. 25 mars 2026 14:27:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 14:28:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 14:29:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  1.1
+mer. 25 mars 2026 14:30:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  7.4
+mer. 25 mars 2026 14:31:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 14:32:01 UTC
+Pourcentage de la mémoire utilisé :  9.9
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  4.3
+mer. 25 mars 2026 14:33:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 14:34:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 14:35:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  7.0
+mer. 25 mars 2026 14:36:01 UTC
+Pourcentage de la mémoire utilisé :  10.0
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 14:37:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 14:38:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  1.0
+mer. 25 mars 2026 14:39:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  0.0
+mer. 25 mars 2026 14:40:01 UTC
+Pourcentage de la mémoire utilisé :  10.0
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  5.8
+mer. 25 mars 2026 14:41:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  1.1
+lun. 30 mars 2026 09:10:03 UTC
+Nombre d'utilisateurs connectés : 0 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  7.8
+lun. 30 mars 2026 09:11:03 UTC
+Nombre d'utilisateurs connectés : 0 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 09:12:01 UTC
+Nombre d'utilisateurs connectés : 0 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 09:13:01 UTC
+Nombre d'utilisateurs connectés : 0 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 09:14:01 UTC
+Nombre d'utilisateurs connectés : 0 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 09:15:01 UTC
+Nombre d'utilisateurs connectés : 0 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  3.3
+lun. 30 mars 2026 09:16:01 UTC
+Nombre d'utilisateurs connectés : 0 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 09:17:01 UTC
+Nombre d'utilisateurs connectés : 0 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 09:18:01 UTC
+Nombre d'utilisateurs connectés : 0 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 09:19:01 UTC
+Nombre d'utilisateurs connectés : 0 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 09:20:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  3.3
+lun. 30 mars 2026 09:21:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 09:22:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 09:23:01 UTC
+Pourcentage de la mémoire utilisé :  10.0
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 09:24:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 09:25:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  4.5
+lun. 30 mars 2026 09:26:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 09:27:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 09:28:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 09:30:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  4.5
+lun. 30 mars 2026 09:31:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 09:32:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 09:33:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 09:34:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 09:35:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  3.5
+lun. 30 mars 2026 09:36:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 09:37:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 09:38:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 09:39:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 09:40:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  4.5
+lun. 30 mars 2026 09:41:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 09:42:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 09:43:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 09:44:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 09:45:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  6.7
+lun. 30 mars 2026 09:46:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 09:47:02 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 09:48:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 09:49:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 09:50:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  4.4
+lun. 30 mars 2026 09:51:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 09:52:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 09:53:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  1.1
+lun. 30 mars 2026 09:54:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 09:55:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  4.5
+lun. 30 mars 2026 09:56:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 09:57:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 09:58:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 09:59:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:00:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  4.7
+lun. 30 mars 2026 10:01:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:02:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:03:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:04:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:05:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  3.4
+lun. 30 mars 2026 10:06:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:07:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:08:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:09:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 10:10:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  4.5
+lun. 30 mars 2026 10:11:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:12:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:13:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:14:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:15:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  5.6
+lun. 30 mars 2026 10:16:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:17:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:18:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 10:19:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:20:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  5.6
+lun. 30 mars 2026 10:21:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:22:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:34:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 10:35:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  5.3
+lun. 30 mars 2026 10:36:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  5.2
+lun. 30 mars 2026 10:37:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:38:02 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:39:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:40:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  2.4
+lun. 30 mars 2026 10:41:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:42:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:43:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:44:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:45:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  3.3
+lun. 30 mars 2026 10:46:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:47:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:48:02 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.7
+Pourcentage du CPU :  100.0
+lun. 30 mars 2026 10:49:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.9
+Pourcentage du CPU :  100.0
+lun. 30 mars 2026 10:50:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.6
+Pourcentage du CPU :  4.5
+lun. 30 mars 2026 10:51:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.5
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:52:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.3
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:53:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.4
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:54:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.4
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:55:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  4.5
+lun. 30 mars 2026 10:56:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.4
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:57:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  9.4
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:58:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.5
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 10:59:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.6
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 11:00:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  6.7
+lun. 30 mars 2026 11:01:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.6
+Pourcentage du CPU :  1.1
+lun. 30 mars 2026 11:02:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.6
+Pourcentage du CPU :  5.0
+lun. 30 mars 2026 11:03:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.6
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 11:04:02 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.7
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 11:05:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  5.6
+lun. 30 mars 2026 11:06:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.6
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 11:07:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.6
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 11:08:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.6
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 11:09:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 11:10:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.4
+Pourcentage du CPU :  3.4
+lun. 30 mars 2026 11:11:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.4
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 11:12:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.4
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 11:13:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.4
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 11:14:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.4
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 11:15:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  8.0
+lun. 30 mars 2026 11:16:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.4
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 11:17:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.4
+Pourcentage du CPU :  2.0
+lun. 30 mars 2026 11:18:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.4
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 11:19:01 UTC
+Nombre d'utilisateurs connectés : 3 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 11:20:01 UTC
+Nombre d'utilisateurs connectés : 3 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  5.6
+lun. 30 mars 2026 11:21:01 UTC
+Nombre d'utilisateurs connectés : 3 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 11:22:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 11:23:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 11:24:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.9
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 11:25:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  3.4
+lun. 30 mars 2026 11:26:01 UTC
+Nombre d'utilisateurs connectés : 3 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 11:27:01 UTC
+Nombre d'utilisateurs connectés : 3 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  2.1
+lun. 30 mars 2026 11:28:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 11:29:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 11:30:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  3.5
+lun. 30 mars 2026 11:31:01 UTC
+Nombre d'utilisateurs connectés : 3 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 11:32:01 UTC
+Nombre d'utilisateurs connectés : 3 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 11:33:01 UTC
+Nombre d'utilisateurs connectés : 3 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 11:34:01 UTC
+Nombre d'utilisateurs connectés : 3 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 11:35:01 UTC
+Nombre d'utilisateurs connectés : 3 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  1.1
+lun. 30 mars 2026 11:36:01 UTC
+Nombre d'utilisateurs connectés : 3 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 11:37:01 UTC
+Nombre d'utilisateurs connectés : 3 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 11:38:01 UTC
+Nombre d'utilisateurs connectés : 3 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 11:39:01 UTC
+Nombre d'utilisateurs connectés : 3 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 11:40:01 UTC
+Nombre d'utilisateurs connectés : 3 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  5.4
+lun. 30 mars 2026 11:41:01 UTC
+Nombre d'utilisateurs connectés : 3 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 11:42:01 UTC
+Nombre d'utilisateurs connectés : 3 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 11:43:01 UTC
+Nombre d'utilisateurs connectés : 3 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 11:44:01 UTC
+Nombre d'utilisateurs connectés : 3 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 11:45:01 UTC
+Nombre d'utilisateurs connectés : 3 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  3.5
+lun. 30 mars 2026 11:46:01 UTC
+Nombre d'utilisateurs connectés : 3 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 11:47:01 UTC
+Nombre d'utilisateurs connectés : 3 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 11:48:01 UTC
+Nombre d'utilisateurs connectés : 3 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 12:39:03 UTC
+Nombre d'utilisateurs connectés : 0 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 12:40:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  14.1
+lun. 30 mars 2026 12:41:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 12:42:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 12:43:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 12:44:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 12:45:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  3.4
+lun. 30 mars 2026 12:46:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 12:47:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 12:48:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 12:49:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 12:50:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  4.5
+lun. 30 mars 2026 12:51:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 12:52:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 12:53:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 12:54:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  2.1
+lun. 30 mars 2026 12:55:01 UTC
+Pourcentage de la mémoire utilisé :  11.5
+Nombre d'utilisateurs connectés : 2 
+Pourcentage du CPU :  4.5
+lun. 30 mars 2026 12:56:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 12:57:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 12:58:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 12:59:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 13:00:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  6.8
+lun. 30 mars 2026 13:01:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 13:02:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 13:03:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  2.1
+lun. 30 mars 2026 13:04:02 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 13:05:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  5.5
+lun. 30 mars 2026 13:06:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 13:07:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 13:08:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 13:09:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 13:10:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  5.5
+lun. 30 mars 2026 13:11:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 13:12:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 13:13:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 13:14:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 13:15:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  5.7
+lun. 30 mars 2026 13:16:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 13:17:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 13:18:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 13:19:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 13:20:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  3.4
+lun. 30 mars 2026 13:21:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 13:22:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 13:23:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 13:24:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  2.0
+lun. 30 mars 2026 13:25:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  7.9
+lun. 30 mars 2026 13:26:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 13:27:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  2.0
+lun. 30 mars 2026 13:28:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 13:29:01 UTC
+Pourcentage de la mémoire utilisé :  10.2
+Nombre d'utilisateurs connectés : 2 
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 13:30:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  5.9
+lun. 30 mars 2026 13:31:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 13:32:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 13:33:02 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  1.1
+lun. 30 mars 2026 13:34:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 13:35:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  11.2
+lun. 30 mars 2026 13:36:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 13:37:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 13:38:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  2.0
+lun. 30 mars 2026 13:39:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 13:40:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  7.7
+lun. 30 mars 2026 13:41:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 13:42:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 13:43:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 13:44:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 13:45:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  4.5
+lun. 30 mars 2026 13:46:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 13:47:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 13:48:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 13:49:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 13:50:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  5.4
+lun. 30 mars 2026 13:51:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 13:52:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 13:53:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 13:54:01 UTC
+Nombre d'utilisateurs connectés : 3 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  100.0
+lun. 30 mars 2026 13:55:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  5.6
+lun. 30 mars 2026 13:56:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 13:57:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 13:58:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 13:59:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 14:00:02 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  2.4
+lun. 30 mars 2026 14:01:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 14:02:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  2.1
+lun. 30 mars 2026 14:03:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 14:04:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  6.9
+lun. 30 mars 2026 14:05:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  3.4
+lun. 30 mars 2026 14:06:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 14:07:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 14:08:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 14:09:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 14:10:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  5.8
+lun. 30 mars 2026 14:11:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 14:12:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  2.1
+lun. 30 mars 2026 14:13:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 14:14:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  9.8
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 14:15:02 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  4.7
+lun. 30 mars 2026 14:16:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 14:17:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  2.0
+lun. 30 mars 2026 14:18:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 14:19:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 14:20:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  3.4
+lun. 30 mars 2026 14:21:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 14:22:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 14:23:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 14:24:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  2.1
+lun. 30 mars 2026 14:25:02 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  3.4
+lun. 30 mars 2026 14:26:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  5.3
+lun. 30 mars 2026 14:27:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 14:28:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 14:29:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 14:30:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  6.5
+lun. 30 mars 2026 14:31:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 14:32:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 14:33:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 14:34:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 14:35:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  4.6
+lun. 30 mars 2026 14:36:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 14:37:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 14:38:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 14:39:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 14:40:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  5.6
+lun. 30 mars 2026 14:41:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 14:42:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 14:43:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 14:44:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 14:45:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  4.5
+lun. 30 mars 2026 14:46:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 14:47:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 14:48:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 14:49:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 14:50:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  13.8
+lun. 30 mars 2026 14:51:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 14:52:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 14:53:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 14:54:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  3.1
+lun. 30 mars 2026 14:55:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  5.6
+lun. 30 mars 2026 14:56:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 14:57:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 14:58:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 14:59:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  1.0
+lun. 30 mars 2026 15:00:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  3.3
+lun. 30 mars 2026 15:01:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 15:02:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 15:03:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 15:04:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 15:05:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  4.7
+lun. 30 mars 2026 15:06:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 15:07:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  0.0
+lun. 30 mars 2026 15:08:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 12:45:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  13.5
+mer. 08 avril 2026 12:46:03 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 12:47:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 12:48:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 12:49:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 12:50:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  8.3
+mer. 08 avril 2026 12:51:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 12:52:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 12:53:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 12:54:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 12:55:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  4.3
+mer. 08 avril 2026 12:56:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 12:57:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 12:58:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 12:59:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:00:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  3.5
+mer. 08 avril 2026 13:01:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:02:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:05:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:06:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:07:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:08:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  1.1
+mer. 08 avril 2026 13:09:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:10:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  1.0
+mer. 08 avril 2026 13:11:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  1.0
+mer. 08 avril 2026 13:13:03 UTC
+Nombre d'utilisateurs connectés : 0 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  1.0
+mer. 08 avril 2026 13:14:02 UTC
+Nombre d'utilisateurs connectés : 0 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:15:01 UTC
+Nombre d'utilisateurs connectés : 0 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:16:01 UTC
+Nombre d'utilisateurs connectés : 0 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:17:01 UTC
+Nombre d'utilisateurs connectés : 0 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:18:01 UTC
+Nombre d'utilisateurs connectés : 0 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  2.1
+mer. 08 avril 2026 13:19:01 UTC
+Nombre d'utilisateurs connectés : 0 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:20:02 UTC
+Nombre d'utilisateurs connectés : 0 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  1.0
+mer. 08 avril 2026 13:21:01 UTC
+Nombre d'utilisateurs connectés : 0 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  7.2
+mer. 08 avril 2026 13:22:01 UTC
+Nombre d'utilisateurs connectés : 0 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:23:01 UTC
+Nombre d'utilisateurs connectés : 0 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:24:01 UTC
+Nombre d'utilisateurs connectés : 0 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  1.0
+                                                                                                                                             mer. 08 avril 2026 13:27:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  1.0
+mer. 08 avril 2026 13:28:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:29:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:30:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:31:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  1.0
+mer. 08 avril 2026 13:32:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  1.1
+mer. 08 avril 2026 13:33:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:34:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:35:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  1.0
+mer. 08 avril 2026 13:36:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:37:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:38:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:39:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:40:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:41:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:42:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:43:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:44:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:45:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:46:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  1.1
+mer. 08 avril 2026 13:47:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:48:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:49:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  1.0
+mer. 08 avril 2026 13:50:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:51:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:52:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:53:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:54:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:55:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.6
+Pourcentage du CPU :  1.1
+mer. 08 avril 2026 13:56:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  1.0
+mer. 08 avril 2026 13:57:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:58:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 13:59:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 14:00:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.6
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 14:01:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 14:02:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 14:03:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 14:04:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  1.0
+mer. 08 avril 2026 14:05:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 14:06:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 14:07:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 14:08:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 14:09:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 14:10:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  1.1
+mer. 08 avril 2026 14:11:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  2.0
+mer. 08 avril 2026 14:12:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  1.0
+mer. 08 avril 2026 14:13:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 14:14:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 14:15:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.6
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 14:16:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  1.0
+mer. 08 avril 2026 14:17:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 14:18:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  1.0
+mer. 08 avril 2026 14:19:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.6
+Pourcentage du CPU :  1.1
+mer. 08 avril 2026 14:20:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  15.8
+mer. 08 avril 2026 14:21:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  1.0
+mer. 08 avril 2026 14:22:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  1.0
+mer. 08 avril 2026 14:23:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  1.0
+mer. 08 avril 2026 14:24:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 14:25:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  1.1
+mer. 08 avril 2026 14:26:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  2.0
+mer. 08 avril 2026 14:27:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  0.0
+mer. 08 avril 2026 14:28:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  0.0
+jeu. 09 avril 2026 09:32:03 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+jeu. 09 avril 2026 09:33:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  0.0
+jeu. 09 avril 2026 09:34:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  1.0
+jeu. 09 avril 2026 09:35:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.2
+Pourcentage du CPU :  0.0
+jeu. 09 avril 2026 09:36:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  1.1
+jeu. 09 avril 2026 09:37:01 UTC
+Pourcentage de la mémoire utilisé :  11.1
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  3.1
+jeu. 09 avril 2026 09:38:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  1.0
+jeu. 09 avril 2026 09:39:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  0.0
+jeu. 09 avril 2026 09:40:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.5
+Pourcentage du CPU :  29.3
+jeu. 09 avril 2026 09:41:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  0.0
+jeu. 09 avril 2026 09:42:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  0.0
+jeu. 09 avril 2026 09:43:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  0.0
+jeu. 09 avril 2026 09:44:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.8
+Pourcentage du CPU :  2.4
+jeu. 09 avril 2026 09:45:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  12.0
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 09:46:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.9
+Pourcentage du CPU :  12.6
+jeu. 09 avril 2026 09:47:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  14.4
+jeu. 09 avril 2026 09:48:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  12.0
+jeu. 09 avril 2026 09:49:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  2.4
+jeu. 09 avril 2026 09:50:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  3.7
+jeu. 09 avril 2026 09:51:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  15.6
+Pourcentage de la mémoire utilisé :  11.4
+jeu. 09 avril 2026 09:52:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  3.5
+jeu. 09 avril 2026 09:53:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  14.6
+jeu. 09 avril 2026 09:54:01 UTC
+Pourcentage de la mémoire utilisé :  11.4
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  1.2
+jeu. 09 avril 2026 09:55:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  3.8
+Pourcentage de la mémoire utilisé :  11.4
+jeu. 09 avril 2026 09:56:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  4.7
+jeu. 09 avril 2026 09:57:01 UTC
+Pourcentage de la mémoire utilisé :  11.3
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  3.5
+jeu. 09 avril 2026 09:58:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  3.6
+jeu. 09 avril 2026 09:59:01 UTC
+Pourcentage de la mémoire utilisé :  11.3
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  3.5
+jeu. 09 avril 2026 10:00:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.3
+Pourcentage du CPU :  3.7
+jeu. 09 avril 2026 10:01:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  4.6
+jeu. 09 avril 2026 10:02:02 UTC
+Pourcentage de la mémoire utilisé :  11.4
+Nombre d'utilisateurs connectés : 2 
+Pourcentage du CPU :  4.8
+jeu. 09 avril 2026 10:03:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  4.7
+jeu. 09 avril 2026 10:04:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.4
+Pourcentage du CPU :  15.6
+jeu. 09 avril 2026 10:05:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  1.2
+jeu. 09 avril 2026 10:06:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  3.4
+jeu. 09 avril 2026 10:07:02 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  2.4
+jeu. 09 avril 2026 10:08:01 UTC
+Pourcentage de la mémoire utilisé :  10.6
+Nombre d'utilisateurs connectés : 2 
+Pourcentage du CPU :  9.0
+jeu. 09 avril 2026 10:09:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  14.6
+jeu. 09 avril 2026 10:10:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  3.7
+jeu. 09 avril 2026 10:11:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  12.6
+jeu. 09 avril 2026 10:12:01 UTC
+Pourcentage de la mémoire utilisé :  11.0
+Nombre d'utilisateurs connectés : 2 
+Pourcentage du CPU :  0.0
+Pourcentage de la mémoire utilisé :  11.0
+jeu. 09 avril 2026 10:13:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage du CPU :  3.4
+jeu. 09 avril 2026 10:14:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  15.6
+jeu. 09 avril 2026 10:15:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  1.2
+jeu. 09 avril 2026 10:16:01 UTC
+Pourcentage de la mémoire utilisé :  10.9
+Nombre d'utilisateurs connectés : 2 
+Pourcentage du CPU :  1.2
+jeu. 09 avril 2026 10:17:01 UTC
+Pourcentage de la mémoire utilisé :  11.0
+Nombre d'utilisateurs connectés : 2 
+Pourcentage du CPU :  0.0
+jeu. 09 avril 2026 10:18:02 UTC
+Pourcentage de la mémoire utilisé :  11.0
+Nombre d'utilisateurs connectés : 2 
+Pourcentage du CPU :  2.4
+jeu. 09 avril 2026 10:19:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  2.3
+jeu. 09 avril 2026 10:20:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 10:21:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  0.0
+jeu. 09 avril 2026 10:22:01 UTC
+Pourcentage de la mémoire utilisé :  11.0
+Nombre d'utilisateurs connectés : 2 
+Pourcentage du CPU :  1.2
+jeu. 09 avril 2026 10:23:01 UTC
+Pourcentage de la mémoire utilisé :  11.0
+Nombre d'utilisateurs connectés : 2 
+Pourcentage du CPU :  1.2
+jeu. 09 avril 2026 10:24:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  13.5
+jeu. 09 avril 2026 10:25:02 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  2.5
+jeu. 09 avril 2026 10:26:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  15.3
+jeu. 09 avril 2026 10:27:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  15.3
+Pourcentage de la mémoire utilisé :  11.0
+jeu. 09 avril 2026 10:28:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage du CPU :  2.4
+jeu. 09 avril 2026 10:29:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  0.0
+jeu. 09 avril 2026 10:30:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  3.7
+jeu. 09 avril 2026 10:31:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  14.4
+jeu. 09 avril 2026 10:32:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  1.2
+Pourcentage de la mémoire utilisé :  11.0
+jeu. 09 avril 2026 10:33:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage du CPU :  1.2
+jeu. 09 avril 2026 10:34:01 UTC
+Pourcentage de la mémoire utilisé :  11.0
+Nombre d'utilisateurs connectés : 2 
+Pourcentage du CPU :  0.0
+jeu. 09 avril 2026 10:35:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  3.7
+Pourcentage de la mémoire utilisé :  11.0
+jeu. 09 avril 2026 10:36:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage du CPU :  2.4
+jeu. 09 avril 2026 10:37:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  1.2
+jeu. 09 avril 2026 10:38:01 UTC
+Pourcentage de la mémoire utilisé :  11.0
+Nombre d'utilisateurs connectés : 2 
+Pourcentage du CPU :  0.0
+jeu. 09 avril 2026 10:39:01 UTC
+Pourcentage de la mémoire utilisé :  11.0
+Nombre d'utilisateurs connectés : 2 
+Pourcentage du CPU :  1.2
+jeu. 09 avril 2026 10:40:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  13.7
+jeu. 09 avril 2026 10:41:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  14.4
+jeu. 09 avril 2026 10:42:01 UTC
+Pourcentage de la mémoire utilisé :  11.0
+Nombre d'utilisateurs connectés : 2 
+Pourcentage du CPU :  3.5
+jeu. 09 avril 2026 10:43:01 UTC
+Pourcentage de la mémoire utilisé :  10.9
+Nombre d'utilisateurs connectés : 2 
+Pourcentage du CPU :  1.2
+jeu. 09 avril 2026 10:44:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  12.5
+jeu. 09 avril 2026 10:45:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  1.2
+Pourcentage de la mémoire utilisé :  11.0
+jeu. 09 avril 2026 10:46:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage du CPU :  1.2
+jeu. 09 avril 2026 10:47:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  14.4
+jeu. 09 avril 2026 10:48:01 UTC
+Pourcentage de la mémoire utilisé :  11.0
+Nombre d'utilisateurs connectés : 2 
+Pourcentage du CPU :  1.2
+jeu. 09 avril 2026 10:49:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  1.2
+jeu. 09 avril 2026 10:50:02 UTC
+Pourcentage de la mémoire utilisé :  11.0
+Nombre d'utilisateurs connectés : 2 
+Pourcentage du CPU :  3.6
+jeu. 09 avril 2026 10:51:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  1.2
+Pourcentage de la mémoire utilisé :  11.0
+jeu. 09 avril 2026 10:52:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage du CPU :  7.3
+jeu. 09 avril 2026 10:53:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 10:54:01 UTC
+Pourcentage de la mémoire utilisé :  11.0
+Nombre d'utilisateurs connectés : 2 
+Pourcentage du CPU :  2.5
+jeu. 09 avril 2026 10:55:01 UTC
+Pourcentage de la mémoire utilisé :  11.0
+Nombre d'utilisateurs connectés : 2 
+Pourcentage du CPU :  1.2
+jeu. 09 avril 2026 10:56:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.0
+Pourcentage du CPU :  2.3
+Pourcentage de la mémoire utilisé :  11.0
+jeu. 09 avril 2026 10:57:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage du CPU :  2.4
+jeu. 09 avril 2026 14:00:03 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  23.6
+jeu. 09 avril 2026 14:01:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  3.8
+jeu. 09 avril 2026 14:02:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  4.1
+jeu. 09 avril 2026 14:03:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.4
+Pourcentage du CPU :  2.6
+jeu. 09 avril 2026 14:04:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  2.5
+jeu. 09 avril 2026 14:05:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  2.7
+jeu. 09 avril 2026 14:06:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  2.5
+jeu. 09 avril 2026 14:07:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  3.8
+jeu. 09 avril 2026 14:08:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 14:09:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 14:10:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  1.4
+jeu. 09 avril 2026 14:11:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 14:12:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.4
+Pourcentage du CPU :  3.7
+jeu. 09 avril 2026 14:13:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  2.6
+jeu. 09 avril 2026 14:14:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 14:15:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  2.6
+jeu. 09 avril 2026 14:16:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  2.5
+jeu. 09 avril 2026 14:17:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 14:18:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  3.7
+jeu. 09 avril 2026 14:19:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 14:20:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 14:21:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 14:22:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 14:23:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  3.9
+jeu. 09 avril 2026 14:24:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 14:25:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 14:26:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  2.6
+jeu. 09 avril 2026 14:27:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 14:28:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 14:29:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  4.9
+jeu. 09 avril 2026 14:30:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.4
+Pourcentage du CPU :  9.0
+jeu. 09 avril 2026 14:31:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  2.5
+jeu. 09 avril 2026 14:32:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  3.8
+jeu. 09 avril 2026 14:33:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  22.4
+jeu. 09 avril 2026 14:34:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 14:35:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  4.0
+jeu. 09 avril 2026 14:36:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.4
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 14:37:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 14:38:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 14:39:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  2.5
+jeu. 09 avril 2026 14:40:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  23.7
+jeu. 09 avril 2026 14:41:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 14:42:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.0
+Pourcentage du CPU :  2.5
+jeu. 09 avril 2026 14:43:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  10.5
+jeu. 09 avril 2026 14:44:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  12.8
+jeu. 09 avril 2026 14:45:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  2.7
+jeu. 09 avril 2026 14:46:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  2.6
+jeu. 09 avril 2026 14:47:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  17.2
+jeu. 09 avril 2026 14:48:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  6.0
+jeu. 09 avril 2026 14:49:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  2.6
+jeu. 09 avril 2026 14:50:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 14:51:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 14:52:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  2.6
+jeu. 09 avril 2026 14:53:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 14:54:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  3.8
+jeu. 09 avril 2026 14:55:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  3.8
+jeu. 09 avril 2026 14:56:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  3.7
+jeu. 09 avril 2026 14:57:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 14:58:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  5.0
+jeu. 09 avril 2026 14:59:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  8.5
+jeu. 09 avril 2026 15:00:02 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  5.8
+jeu. 09 avril 2026 15:01:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 15:02:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.1
+Pourcentage du CPU :  8.6
+jeu. 09 avril 2026 15:03:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  2.5
+jeu. 09 avril 2026 15:04:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 15:05:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  5.9
+jeu. 09 avril 2026 15:06:01 UTC
+Pourcentage de la mémoire utilisé :  10.7
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 15:07:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  2.6
+jeu. 09 avril 2026 15:08:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  3.8
+jeu. 09 avril 2026 15:09:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  21.9
+jeu. 09 avril 2026 15:10:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  3.1
+jeu. 09 avril 2026 15:11:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 15:12:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  2.6
+jeu. 09 avril 2026 15:13:01 UTC
+Pourcentage de la mémoire utilisé :  10.3
+Nombre d'utilisateurs connectés : 1 
+Pourcentage du CPU :  2.5
+jeu. 09 avril 2026 15:14:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  5.1
+jeu. 09 avril 2026 15:15:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  9.5
+jeu. 09 avril 2026 15:16:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 15:17:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  2.6
+jeu. 09 avril 2026 15:18:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  9.6
+jeu. 09 avril 2026 15:19:01 UTC
+Nombre d'utilisateurs connectés : 1 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 15:20:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.9
+Pourcentage du CPU :  9.0
+jeu. 09 avril 2026 15:21:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  2.5
+jeu. 09 avril 2026 15:22:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.5
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 15:23:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  24.2
+jeu. 09 avril 2026 15:24:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  12.8
+jeu. 09 avril 2026 15:25:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  7.5
+jeu. 09 avril 2026 15:26:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  4.9
+jeu. 09 avril 2026 15:27:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  2.6
+jeu. 09 avril 2026 15:28:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  2.5
+jeu. 09 avril 2026 15:29:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  3.8
+jeu. 09 avril 2026 15:30:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  10.0
+jeu. 09 avril 2026 15:31:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.4
+Pourcentage du CPU :  2.5
+jeu. 09 avril 2026 15:32:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  3.9
+jeu. 09 avril 2026 15:33:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 15:34:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  9.6
+jeu. 09 avril 2026 15:35:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  12.1
+jeu. 09 avril 2026 15:36:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.4
+Pourcentage du CPU :  2.5
+jeu. 09 avril 2026 15:37:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  1.2
+jeu. 09 avril 2026 15:38:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.4
+Pourcentage du CPU :  5.3
+jeu. 09 avril 2026 15:39:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.4
+Pourcentage du CPU :  5.1
+jeu. 09 avril 2026 15:40:02 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  10.0
+jeu. 09 avril 2026 15:41:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  6.5
+jeu. 09 avril 2026 15:42:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 15:43:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 15:44:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.4
+Pourcentage du CPU :  3.8
+jeu. 09 avril 2026 15:45:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  4.7
+jeu. 09 avril 2026 15:46:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 15:47:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  15.2
+jeu. 09 avril 2026 15:48:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 15:49:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  3.8
+jeu. 09 avril 2026 15:50:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  6.9
+jeu. 09 avril 2026 15:51:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 15:52:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  1.4
+jeu. 09 avril 2026 15:53:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  1.4
+jeu. 09 avril 2026 15:54:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  2.7
+jeu. 09 avril 2026 15:55:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  10.4
+jeu. 09 avril 2026 15:56:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.4
+Pourcentage du CPU :  2.6
+jeu. 09 avril 2026 15:57:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  2.6
+jeu. 09 avril 2026 15:58:02 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.4
+Pourcentage du CPU :  2.6
+jeu. 09 avril 2026 15:59:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  3.7
+jeu. 09 avril 2026 16:00:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  5.9
+jeu. 09 avril 2026 16:01:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.4
+Pourcentage du CPU :  2.6
+jeu. 09 avril 2026 16:02:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  2.5
+jeu. 09 avril 2026 16:03:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  3.8
+jeu. 09 avril 2026 16:04:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  1.2
+jeu. 09 avril 2026 16:05:02 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  8.7
+jeu. 09 avril 2026 16:06:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 16:07:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 16:08:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  2.5
+jeu. 09 avril 2026 16:09:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  3.9
+jeu. 09 avril 2026 16:10:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  7.1
+jeu. 09 avril 2026 16:11:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.6
+Pourcentage du CPU :  2.6
+jeu. 09 avril 2026 16:12:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  1.2
+jeu. 09 avril 2026 16:13:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  5.1
+jeu. 09 avril 2026 16:14:01 UTC
+Pourcentage de la mémoire utilisé :  10.2
+Nombre d'utilisateurs connectés : 2 
+Pourcentage du CPU :  2.5
+jeu. 09 avril 2026 16:15:02 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  6.0
+jeu. 09 avril 2026 16:16:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  2.5
+jeu. 09 avril 2026 16:17:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.4
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 16:18:01 UTC
+Pourcentage de la mémoire utilisé :  10.4
+Nombre d'utilisateurs connectés : 2 
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 16:19:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  3.8
+jeu. 09 avril 2026 16:20:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  10.1
+jeu. 09 avril 2026 16:21:01 UTC
+Pourcentage de la mémoire utilisé :  10.4
+Nombre d'utilisateurs connectés : 2 
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 16:22:02 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  10.5
+jeu. 09 avril 2026 16:23:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  1.2
+jeu. 09 avril 2026 16:24:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 16:25:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  30.8
+jeu. 09 avril 2026 16:26:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  6.1
+jeu. 09 avril 2026 16:27:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  2.5
+jeu. 09 avril 2026 16:28:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.2
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 16:29:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  2.6
+jeu. 09 avril 2026 16:30:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.7
+Pourcentage du CPU :  4.5
+jeu. 09 avril 2026 16:31:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  18.5
+jeu. 09 avril 2026 16:32:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  1.3
+jeu. 09 avril 2026 16:33:01 UTC
+Pourcentage de la mémoire utilisé :  10.5
+Nombre d'utilisateurs connectés : 2 
+Pourcentage du CPU :  4.9
+jeu. 09 avril 2026 16:34:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.3
+Pourcentage du CPU :  2.7
+jeu. 09 avril 2026 16:35:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  10.8
+Pourcentage du CPU :  12.1
+jeu. 09 avril 2026 16:36:01 UTC
+Nombre d'utilisateurs connectés : 2 
+Pourcentage de la mémoire utilisé :  11.1
+Pourcentage du CPU :  1.3
+mar. 14 avril 2026 13:25:01 UTC
+Nombre d'utilisateurs connectés : 0 
+Pourcentage de la mémoire utilisé :  11.9
+Pourcentage du CPU :  35.4
